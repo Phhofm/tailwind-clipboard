@@ -1,6 +1,5 @@
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
 
 @layer base {
   h3 {
@@ -30,3 +29,5 @@
       brightness(101%) contrast(94%);
   }
 }
+
+@tailwind utilities;
