@@ -1,5 +1,7 @@
 # tailwind-clipboard
-A Tailwind Website following along the Tailwind CSS Course on Udemy:
+A Tailwind Website following along the Tailwind CSS Course on Udemy.
+
+Live Version: [https://phhofm.github.io/tailwind-clipboard/](https://phhofm.github.io/tailwind-clipboard/)
 
 # Clipboard Website
 
@@ -19,4 +21,4 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](images/clipboard.png)
+![Alt text](./docs/images/clipboard.png)
